@@ -1,0 +1,35 @@
+Number: 0
+Labels Real: ['Good' 'Minor Problemns']
+Labels Predicted: ['Good' 'Minor Problemns']
+Accuracy of Classification on test set: 0.9609625668449198
+Confusion Matrix: [[3577    3]
+ [ 143   17]]
+True Positive: [3577   17] Support for each label [3580  160]
+Recall: [0.99916201 0.10625   ] Precision: [0.96155914 0.85      ]
+Recall Mean: 0.5527060055865922 Precision Mean: 0.9057795698924731
+Number: 1
+Labels Real: ['Good' 'Minor Problemns']
+Labels Predicted: ['Good' 'Minor Problemns']
+Accuracy of Classification on test set: 0.9454545454545454
+Confusion Matrix: [[3354   21]
+ [ 183  182]]
+True Positive: [3354  182] Support for each label [3375  365]
+Recall: [0.99377778 0.49863014] Precision: [0.94826124 0.89655172]
+Recall Mean: 0.7462039573820396 Precision Mean: 0.9224064812377526
+Number: 2
+Labels Real: ['Good' 'Minor Problemns']
+Labels Predicted: ['Good' 'Minor Problemns']
+Accuracy of Classification on test set: 0.956951871657754
+Confusion Matrix: [[2955   60]
+ [ 101  624]]
+True Positive: [2955  624] Support for each label [3015  725]
+Recall: [0.9800995  0.86068966] Precision: [0.96695026 0.9122807 ]
+Recall Mean: 0.920394578829988 Precision Mean: 0.9396154817672453
+Number: 3
+Labels Real: ['Good']
+Labels Predicted: ['Good']
+Accuracy of Classification on test set: 1.0
+Confusion Matrix: [[3740]]
+True Positive: [3740] Support for each label [3740]
+Recall: [1.] Precision: [1.]
+Recall Mean: 1.0 Precision Mean: 1.0
