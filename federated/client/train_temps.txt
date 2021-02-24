@@ -1,0 +1,4 @@
+Iteration: 0 Time to train: 0:02:20
+Iteration: 1 Time to train: 0:04:40
+Iteration: 2 Time to train: 0:07:14
+Iteration: 3 Time to train: 0:09:24
