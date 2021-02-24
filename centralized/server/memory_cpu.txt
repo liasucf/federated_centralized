@@ -1,0 +1,12 @@
+Iteration: 0
+percentage of memory use: 4.832893924494076
+physical memory use: (in MB)187.75percentage utilization of this process in the system 84.5
+Iteration: 1
+percentage of memory use: 5.921763105343493
+physical memory use: (in MB)230.05078125percentage utilization of this process in the system 102.0
+Iteration: 2
+percentage of memory use: 6.805005037616212
+physical memory use: (in MB)264.36328125percentage utilization of this process in the system 102.1
+Iteration: 3
+percentage of memory use: 7.728869663495281
+physical memory use: (in MB)300.25390625percentage utilization of this process in the system 102.1
