@@ -1,0 +1,12 @@
+Number: 0
+percentage of memory use: 23.028166710285266
+physical memory use: (in MB)219.9765625percentage utilization of this process in the system 113.2
+Number: 1
+percentage of memory use: 26.913766029835124
+physical memory use: (in MB)257.09375percentage utilization of this process in the system 119.3
+Number: 2
+percentage of memory use: 30.00073606385763
+physical memory use: (in MB)286.58203125percentage utilization of this process in the system 122.8
+Number: 3
+percentage of memory use: 33.05744569484428
+physical memory use: (in MB)315.78125percentage utilization of this process in the system 31.4
