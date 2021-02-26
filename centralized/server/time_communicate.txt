@@ -1,0 +1,25 @@
+Iteration: 0
+Time to receive data from: ('15.228.52.178', 52012)is 0.014038324356079102Time to receive data from: ('15.228.52.178', 52012)is 0:00:0000Iteration: 0
+Time to receive data from: ('18.230.40.106', 43064)is 0.013847112655639648Time to receive data from: ('18.230.40.106', 43064)is 0:00:0000Iteration: 0
+Time to receive data from: ('54.207.251.179', 37874)is 0.016336441040039062Time to receive data from: ('54.207.251.179', 37874)is 0:00:0000Iteration: 0
+Time to receive data from: ('18.228.223.237', 56030)is 0.01660442352294922Time to receive data from: ('18.228.223.237', 56030)is 0:00:0000Iteration: 0
+Time to receive data from: ('54.233.93.138', 43870)is 0.01673269271850586Time to receive data from: ('54.233.93.138', 43870)is 0:00:0000Iteration: 0
+Time to receive data from: ('54.233.153.211', 33186)is 0.10680866241455078Time to receive data from: ('54.233.153.211', 33186)is 0:00:0000Iteration: 1
+Time to receive data from: ('18.228.223.237', 56030)is 0.018018484115600586Time to receive data from: ('18.228.223.237', 56030)is 0:00:0000Iteration: 1
+Time to receive data from: ('18.230.40.106', 43064)is 0.0199277400970459Time to receive data from: ('18.230.40.106', 43064)is 0:00:0000Iteration: 1
+Time to receive data from: ('54.207.251.179', 37874)is 0.020226716995239258Time to receive data from: ('54.207.251.179', 37874)is 0:00:0000Iteration: 1
+Time to receive data from: ('15.228.52.178', 52012)is 0.020626544952392578Time to receive data from: ('15.228.52.178', 52012)is 0:00:0000Iteration: 1
+Time to receive data from: ('54.233.93.138', 43870)is 0.01998758316040039Time to receive data from: ('54.233.93.138', 43870)is 0:00:0000Iteration: 1
+Time to receive data from: ('54.233.153.211', 33186)is 0.02103567123413086Time to receive data from: ('54.233.153.211', 33186)is 0:00:0000Iteration: 2
+Time to receive data from: ('15.228.52.178', 52012)is 0.020346641540527344Time to receive data from: ('15.228.52.178', 52012)is 0:00:0000Iteration: 2
+Time to receive data from: ('54.207.251.179', 37874)is 0.021041154861450195Time to receive data from: ('54.207.251.179', 37874)is 0:00:0000Iteration: 2
+Time to receive data from: ('54.233.93.138', 43870)is 0.022890090942382812Time to receive data from: ('54.233.93.138', 43870)is 0:00:0000Iteration: 2
+Time to receive data from: ('18.228.223.237', 56030)is 0.02572774887084961Time to receive data from: ('18.228.223.237', 56030)is 0:00:0000Iteration: 2
+Time to receive data from: ('18.230.40.106', 43064)is 0.0261385440826416Time to receive data from: ('18.230.40.106', 43064)is 0:00:0000Iteration: 2
+Time to receive data from: ('54.233.153.211', 33186)is 0.02556467056274414Time to receive data from: ('54.233.153.211', 33186)is 0:00:0000Iteration: 3
+Time to receive data from: ('18.228.223.237', 56030)is 0.021250009536743164Time to receive data from: ('18.228.223.237', 56030)is 0:00:0000Iteration: 3
+Time to receive data from: ('54.233.93.138', 43870)is 0.024925708770751953Time to receive data from: ('54.233.93.138', 43870)is 0:00:0000Iteration: 3
+Time to receive data from: ('15.228.52.178', 52012)is 0.02633070945739746Time to receive data from: ('15.228.52.178', 52012)is 0:00:0000Iteration: 3
+Time to receive data from: ('54.207.251.179', 37874)is 0.026434659957885742Time to receive data from: ('54.207.251.179', 37874)is 0:00:0000Iteration: 3
+Time to receive data from: ('18.230.40.106', 43064)is 0.02673959732055664Time to receive data from: ('18.230.40.106', 43064)is 0:00:0000Iteration: 3
+Time to receive data from: ('54.233.153.211', 33186)is 0.027312040328979492Time to receive data from: ('54.233.153.211', 33186)is 0:00:0000
