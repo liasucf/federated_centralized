@@ -1,0 +1,25 @@
+Iteration: 0
+Time to receive data from: ('3.96.156.115', 36594)is 0.6359603404998779Time to receive data from: ('3.96.156.115', 36594)is 0:00:0000Iteration: 0
+Time to receive data from: ('3.22.57.173', 44350)is 0.7526178359985352Time to receive data from: ('3.22.57.173', 44350)is 0:00:0000Iteration: 0
+Time to receive data from: ('18.132.210.186', 39196)is 0.9354548454284668Time to receive data from: ('18.132.210.186', 39196)is 0:00:0000Iteration: 0
+Time to receive data from: ('18.196.26.140', 54384)is 1.0347402095794678Time to receive data from: ('18.196.26.140', 54384)is 0:00:0001Iteration: 0
+Time to receive data from: ('54.193.124.135', 57708)is 1.0547895431518555Time to receive data from: ('54.193.124.135', 57708)is 0:00:0001Iteration: 0
+Time to receive data from: ('54.251.229.195', 40690)is 1.7072744369506836Time to receive data from: ('54.251.229.195', 40690)is 0:00:0001Iteration: 1
+Time to receive data from: ('3.22.57.173', 44350)is 0.7507891654968262Time to receive data from: ('3.22.57.173', 44350)is 0:00:0000Iteration: 1
+Time to receive data from: ('3.96.156.115', 36594)is 0.7596373558044434Time to receive data from: ('3.96.156.115', 36594)is 0:00:0000Iteration: 1
+Time to receive data from: ('54.193.124.135', 57708)is 1.0533077716827393Time to receive data from: ('54.193.124.135', 57708)is 0:00:0001Iteration: 1
+Time to receive data from: ('18.132.210.186', 39196)is 1.1197090148925781Time to receive data from: ('18.132.210.186', 39196)is 0:00:0001Iteration: 1
+Time to receive data from: ('18.196.26.140', 54384)is 1.2344281673431396Time to receive data from: ('18.196.26.140', 54384)is 0:00:0001Iteration: 1
+Time to receive data from: ('54.251.229.195', 40690)is 2.044813871383667Time to receive data from: ('54.251.229.195', 40690)is 0:00:0002Iteration: 2
+Time to receive data from: ('3.22.57.173', 44350)is 0.739001989364624Time to receive data from: ('3.22.57.173', 44350)is 0:00:0000Iteration: 2
+Time to receive data from: ('3.96.156.115', 36594)is 0.7605752944946289Time to receive data from: ('3.96.156.115', 36594)is 0:00:0000Iteration: 2
+Time to receive data from: ('54.193.124.135', 57708)is 1.0534582138061523Time to receive data from: ('54.193.124.135', 57708)is 0:00:0001Iteration: 2
+Time to receive data from: ('18.132.210.186', 39196)is 1.120485544204712Time to receive data from: ('18.132.210.186', 39196)is 0:00:0001Iteration: 2
+Time to receive data from: ('18.196.26.140', 54384)is 1.234870195388794Time to receive data from: ('18.196.26.140', 54384)is 0:00:0001Iteration: 2
+Time to receive data from: ('54.251.229.195', 40690)is 2.0154876708984375Time to receive data from: ('54.251.229.195', 40690)is 0:00:0002Iteration: 3
+Time to receive data from: ('3.22.57.173', 44350)is 0.7536938190460205Time to receive data from: ('3.22.57.173', 44350)is 0:00:0000Iteration: 3
+Time to receive data from: ('3.96.156.115', 36594)is 0.7624566555023193Time to receive data from: ('3.96.156.115', 36594)is 0:00:0000Iteration: 3
+Time to receive data from: ('54.193.124.135', 57708)is 1.0555617809295654Time to receive data from: ('54.193.124.135', 57708)is 0:00:0001Iteration: 3
+Time to receive data from: ('18.132.210.186', 39196)is 1.1224784851074219Time to receive data from: ('18.132.210.186', 39196)is 0:00:0001Iteration: 3
+Time to receive data from: ('18.196.26.140', 54384)is 1.2370624542236328Time to receive data from: ('18.196.26.140', 54384)is 0:00:0001Iteration: 3
+Time to receive data from: ('54.251.229.195', 40690)is 2.0170912742614746Time to receive data from: ('54.251.229.195', 40690)is 0:00:0002

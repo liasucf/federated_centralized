@@ -1,0 +1,16 @@
+Iteration: 0
+Lenght of X_train: 857
+Tempo para treinar0:02:0045percentage of memory use: 5.213580850220911
+physical memory use: (in MB)202.5390625percentage utilization of this process in the system 85.4
+Iteration: 1
+Lenght of X_train: 1691
+Tempo para treinar0:05:0023percentage of memory use: 6.7821799102680895
+physical memory use: (in MB)263.4765625percentage utilization of this process in the system 101.3
+Iteration: 2
+Lenght of X_train: 2496
+Tempo para treinar0:07:0048percentage of memory use: 8.29044823723653
+physical memory use: (in MB)322.0703125percentage utilization of this process in the system 101.4
+Iteration: 3
+Lenght of X_train: 3366
+Tempo para treinar0:10:0033percentage of memory use: 9.740396855562192
+physical memory use: (in MB)378.3984375percentage utilization of this process in the system 101.8
