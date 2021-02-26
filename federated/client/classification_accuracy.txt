@@ -1,0 +1,27 @@
+Number: 0
+Labels Real: ['Hazardous' 'Minor Problemns']
+Labels Predicted: ['Hazardous' 'Minor Problemns']
+Accuracy of Classification on test set: 0.9212903225806451
+Confusion Matrix: [[ 621  174]
+ [ 131 2949]]
+True Positive: [ 621 2949] Support for each label [ 795 3080]
+Recall: [0.78113208 0.95746753] Precision: [0.82579787 0.94428434]
+Recall Mean: 0.8692998039696154 Precision Mean: 0.885041107159646
+Number: 1
+Labels Real: ['Hazardous' 'Minor Problemns']
+Labels Predicted: ['Hazardous' 'Minor Problemns']
+Accuracy of Classification on test set: 0.9403870967741935
+Confusion Matrix: [[ 783  197]
+ [  34 2861]]
+True Positive: [ 783 2861] Support for each label [ 980 2895]
+Recall: [0.79897959 0.98825561] Precision: [0.95838433 0.93557881]
+Recall Mean: 0.8936176024814071 Precision Mean: 0.9469815713024329
+Number: 2
+Labels Real: ['Good' 'Minor Problemns']
+Labels Predicted: ['Good' 'Minor Problemns']
+Accuracy of Classification on test set: 0.9881290322580645
+Confusion Matrix: [[2919   31]
+ [  15  910]]
+True Positive: [2919  910] Support for each label [2950  925]
+Recall: [0.98949153 0.98378378] Precision: [0.99488753 0.96705632]
+Recall Mean: 0.9866376546037563 Precision Mean: 0.980971924311473
