@@ -1,0 +1,47 @@
+Number: 0
+Labels Real: ['Good' 'Hazardous' 'Minor Problemns']
+Labels Predicted: ['Good' 'Minor Problemns']
+Accuracy of Classification on test set: 0.9046875
+Confusion Matrix: [[2805    0   31]
+ [   5    0    0]
+ [ 330    0  669]]
+True Positive: [2805    0  669] Support for each label [2836    5  999]
+Recall: [0.98906911 0.         0.66966967] Precision: [0.8933121         nan 0.95571429]
+Recall Mean: 0.5529129270314037 Precision Mean: nan
+Number: 1
+Labels Real: ['Good' 'Hazardous' 'Minor Problemns']
+Labels Predicted: ['Good' 'Hazardous' 'Minor Problemns']
+Accuracy of Classification on test set: 0.9270833333333334
+Confusion Matrix: [[2991    1   42]
+ [   4   10   61]
+ [ 168    4  559]]
+True Positive: [2991   10  559] Support for each label [3034   75  731]
+Recall: [0.98582729 0.13333333 0.76470588] Precision: [0.94562125 0.66666667 0.84441088]
+Recall Mean: 0.627955502130538 Precision Mean: 0.8188995961508194
+Number: 2
+Labels Real: ['Good' 'Minor Problemns']
+Labels Predicted: ['Good' 'Minor Problemns']
+Accuracy of Classification on test set: 0.9802083333333333
+Confusion Matrix: [[3607   23]
+ [  53  157]]
+True Positive: [3607  157] Support for each label [3630  210]
+Recall: [0.99366391 0.74761905] Precision: [0.98551913 0.87222222]
+Recall Mean: 0.8706414797323888 Precision Mean: 0.9288706739526411
+Number: 3
+Labels Real: ['Good' 'Minor Problemns']
+Labels Predicted: ['Good' 'Minor Problemns']
+Accuracy of Classification on test set: 0.9729166666666667
+Confusion Matrix: [[3677   33]
+ [  71   59]]
+True Positive: [3677   59] Support for each label [3710  130]
+Recall: [0.99110512 0.45384615] Precision: [0.98105656 0.64130435]
+Recall Mean: 0.7224756375699772 Precision Mean: 0.8111804556633102
+Number: 4
+Labels Real: ['Good' 'Minor Problemns']
+Labels Predicted: ['Good' 'Minor Problemns']
+Accuracy of Classification on test set: 0.9958333333333333
+Confusion Matrix: [[3805    5]
+ [  11   19]]
+True Positive: [3805   19] Support for each label [3810   30]
+Recall: [0.99868766 0.63333333] Precision: [0.9971174  0.79166667]
+Recall Mean: 0.816010498687664 Precision Mean: 0.8943920335429769
