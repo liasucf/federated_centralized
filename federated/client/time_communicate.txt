@@ -1,0 +1,12 @@
+Iteration: 0
+Time to receive the model from the server48.9848473072052
+Time to receive the model from the server0:00:48
+Iteration: 1
+Time to receive the model from the server1108.887264251709
+Time to receive the model from the server0:18:28
+Iteration: 2
+Time to receive the model from the server435.747123003006
+Time to receive the model from the server0:07:15
+Iteration: 3
+Time to receive the model from the server463.44180130958557
+Time to receive the model from the server0:07:43
