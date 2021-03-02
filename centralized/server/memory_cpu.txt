@@ -1,30 +1,24 @@
 Iteration: 0
 Lenght of X_train: 857
-Tempo para treinar0:02:0040percentage of memory use: 5.1937722595267255
-physical memory use: (in MB)201.76953125percentage utilization of this process in the system 64.8
-percentage CPU [23.7, 39.3]
-percentage CPU 31.5
+Tempo para treinar0:02:0040percentage of memory use: 5.254907402379846
+physical memory use: (in MB)204.14453125percentage utilization of this process in the system 72.1
+percentage CPU [42.8, 27.4]
+percentage CPU 35.1
 Iteration: 1
 Lenght of X_train: 1691
-Tempo para treinar0:05:0011percentage of memory use: 6.384198174392017
-physical memory use: (in MB)248.015625percentage utilization of this process in the system 102.2
-percentage CPU [51.9, 47.6]
-percentage CPU 49.8
+Tempo para treinar0:05:0014percentage of memory use: 6.39505770634619
+physical memory use: (in MB)248.4375percentage utilization of this process in the system 102.1
+percentage CPU [50.1, 49.4]
+percentage CPU 49.7
 Iteration: 2
 Lenght of X_train: 2496
-Tempo para treinar0:07:0038percentage of memory use: 7.4292270225375505
-physical memory use: (in MB)288.61328125percentage utilization of this process in the system 102.3
-percentage CPU [46.9, 52.5]
+Tempo para treinar0:07:0038percentage of memory use: 7.426109934661816
+physical memory use: (in MB)288.4921875percentage utilization of this process in the system 102.1
+percentage CPU [52.8, 46.7]
 percentage CPU 49.7
 Iteration: 3
 Lenght of X_train: 3366
-Tempo para treinar0:10:0017percentage of memory use: 8.524430930360234
-physical memory use: (in MB)331.16015625percentage utilization of this process in the system 102.3
-percentage CPU [47.0, 52.4]
-percentage CPU 49.7
-Iteration: 4
-Lenght of X_train: 4145
-Tempo para treinar0:12:0039percentage of memory use: 9.504101484337136
-physical memory use: (in MB)369.21875percentage utilization of this process in the system 102.2
-percentage CPU [48.9, 50.5]
+Tempo para treinar0:10:0015percentage of memory use: 8.5117614764137
+physical memory use: (in MB)330.66796875percentage utilization of this process in the system 102.1
+percentage CPU [45.3, 54.2]
 percentage CPU 49.7
