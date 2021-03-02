@@ -1,0 +1,40 @@
+Iteration: 0
+Time to send data to server: 0.0008454322814941406
+Time to send data to server: 0:00:00
+Lenght of data in this iteration : 4
+percentage of memory use: 0.628661610315508
+physical memory use: (in MB)99.7109375percentage utilization of this process in the system 0.8
+percentage CPU [4.8, 2.6]
+percentage CPU 3.7
+Iteration: 1
+Time to send data to server: 0.0010743141174316406
+Time to send data to server: 0:00:00
+Lenght of data in this iteration : 4
+percentage of memory use: 0.6385129244315546
+physical memory use: (in MB)101.2734375percentage utilization of this process in the system 0.0
+percentage CPU [0.1, 0.0]
+percentage CPU 0.1
+Iteration: 2
+Time to send data to server: 0.0002913475036621094
+Time to send data to server: 0:00:00
+Lenght of data in this iteration : 4
+percentage of memory use: 0.644128173477701
+physical memory use: (in MB)102.1640625percentage utilization of this process in the system 0.0
+percentage CPU [0.0, 0.0]
+percentage CPU 0.0
+Iteration: 3
+Time to send data to server: 0.0016398429870605469
+Time to send data to server: 0:00:00
+Lenght of data in this iteration : 4
+percentage of memory use: 0.6523047641940197
+physical memory use: (in MB)103.4609375percentage utilization of this process in the system 0.0
+percentage CPU [0.0, 0.0]
+percentage CPU 0.0
+Iteration: 4
+Time to send data to server: 0.0018389225006103516
+Time to send data to server: 0:00:00
+Lenght of data in this iteration : 4
+percentage of memory use: 0.6525017904763406
+physical memory use: (in MB)103.4921875percentage utilization of this process in the system 0.0
+percentage CPU [0.1, 0.0]
+percentage CPU 0.1
