@@ -193,7 +193,7 @@ while True:
         ax.plot(data['Time'][np.hstack((train_index,test_index))], [None for i in y_train[:,n_steps_out-1]] + [x for x in y_test[:,n_steps_out-1]] , linestyle='-', linewidth=2, label='Test', color='#6156FA')
         date_form = mdates.DateFormatter("%d %b")
         ax.xaxis.set_major_formatter(date_form)
-        ax.xaxis.set_major_locator(mdates.WeekdayLocator(interval=1))
+        ax.xaxis.set_major_locator(mdates.WeekdayLocator(interval=3))
         ax.set_xlim(data['Time'][np.hstack((train_index,test_index))].min(), data['Time'][np.hstack((train_index,test_index))].max())
         ax.set_ylabel('eCO2 (ppm)')
         ax.set_xlabel('Time')
