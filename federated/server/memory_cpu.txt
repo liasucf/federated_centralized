@@ -1,0 +1,48 @@
+Iteration Number 1
+physical memory use: (in MB)143.59375
+physical memory use: (in MB)3.696262913290659
+percentage utilization of this process in the system0.0
+Iteration Number 2
+physical memory use: (in MB)143.99609375
+physical memory use: (in MB)3.7066196891358425
+percentage utilization of this process in the system0.0
+Iteration Number 3
+physical memory use: (in MB)144.55859375
+physical memory use: (in MB)3.72109906507474
+percentage utilization of this process in the system0.0
+Iteration Number 4
+physical memory use: (in MB)144.5703125
+physical memory use: (in MB)3.7214007187401332
+percentage utilization of this process in the system0.0
+Iteration Number 1
+physical memory use: (in MB)144.2421875
+physical memory use: (in MB)3.7129544161091097
+percentage utilization of this process in the system0.0
+Iteration Number 2
+physical memory use: (in MB)145.34765625
+physical memory use: (in MB)3.741410411877915
+percentage utilization of this process in the system0.0
+Iteration Number 3
+physical memory use: (in MB)145.63671875
+physical memory use: (in MB)3.7488512022909593
+percentage utilization of this process in the system0.0
+Iteration Number 4
+physical memory use: (in MB)145.99609375
+physical memory use: (in MB)3.7581019146963657
+percentage utilization of this process in the system0.0
+Iteration Number 5
+physical memory use: (in MB)145.9921875
+physical memory use: (in MB)3.7580013634745675
+percentage utilization of this process in the system0.0
+Final Iterationphysical memory use: (in MB)145.9921875percentage utilization of this process in the system0.0percentage CPU [0.1, 0.1]
+percentage CPU 0.1
+Final Iterationphysical memory use: (in MB)145.99609375percentage utilization of this process in the system0.0percentage CPU [0.1, 0.0]
+percentage CPU 0.1
+Final Iterationphysical memory use: (in MB)146.0percentage utilization of this process in the system0.0percentage CPU [0.0, 0.0]
+percentage CPU 0.1
+Final Iterationphysical memory use: (in MB)146.09375percentage utilization of this process in the system0.0percentage CPU [0.1, 0.0]
+percentage CPU 0.0
+Final Iterationphysical memory use: (in MB)146.08984375percentage utilization of this process in the system0.0percentage CPU [0.0, 0.0]
+percentage CPU 0.0
+Final Iterationphysical memory use: (in MB)146.16796875percentage utilization of this process in the system0.0percentage CPU [0.1, 0.1]
+percentage CPU 0.1

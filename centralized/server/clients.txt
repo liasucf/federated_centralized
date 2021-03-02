@@ -1,0 +1,12 @@
+Client0
+Adresse('54.233.93.138', 33364)
+Client1
+Adresse('54.207.251.179', 44418)
+Client2
+Adresse('18.230.40.106', 44544)
+Client3
+Adresse('18.231.149.108', 60674)
+Client4
+Adresse('15.228.21.104', 45862)
+Client5
+Adresse('54.232.54.106', 57164)
