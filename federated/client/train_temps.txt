@@ -1,0 +1,24 @@
+Iteration: 0
+Lenght X: 5242
+Lenght X train: 722
+Lenght X test: 748
+ Time to train: 0:01:59
+ Time to train: 119.08917260169983
+Iteration: 1
+Lenght X: 5242
+Lenght X train: 1322
+Lenght X test: 748
+ Time to train: 0:03:35
+ Time to train: 215.95225501060486
+Iteration: 2
+Lenght X: 5242
+Lenght X train: 2068
+Lenght X test: 748
+ Time to train: 0:05:30
+ Time to train: 330.84237360954285
+Iteration: 3
+Lenght X: 5242
+Lenght X train: 2805
+Lenght X test: 748
+ Time to train: 0:08:08
+ Time to train: 488.1134784221649
